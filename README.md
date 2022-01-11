@@ -6,3 +6,6 @@
 [Overlapping rectangles](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/#)\
 [Run length encoding](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)\
 
+2.Amazon\
+[Longest mountain array](https://leetcode.com/problems/longest-mountain-in-array/)
+
